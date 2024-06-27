@@ -69,8 +69,8 @@ def rx_bytes(size):
 
 import cv2
 
-stream_w = 160
-stream_h = 120
+stream_w = 324
+stream_h = 244
 
 start = time.time()
 count = 0

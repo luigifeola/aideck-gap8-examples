@@ -18,8 +18,8 @@ APP = face_detection
 
 NB_FRAMES ?= -1
 
-STREAM_W = 160
-STREAM_H = 120
+STREAM_W = 324
+STREAM_H = 244
 
 FACE_DET_MODEL_SRC = FaceDetGenerator.c FaceDetModel.c
 FACE_DET_MODEL_GEN = FaceDetKernels
